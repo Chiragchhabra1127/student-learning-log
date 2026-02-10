@@ -1,2 +1,14 @@
-# student-learning-log
-My learning journey as an undergraduate student
+# Chirag Chhabra
+
+Undergraduate student pursuing B.A. (Geography & Computer Science)  
+Maharaja Ganga Singh University, Rajasthan, India  
+
+## Interests
+- Data Analysis
+- Python & SQL
+- Automation & AI tools
+
+## Current Focus
+- Learning data analytics fundamentals
+- Building small practice projects
+- Improving problem-solving skills 
