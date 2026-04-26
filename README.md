@@ -9,6 +9,6 @@ Maharaja Ganga Singh University, Rajasthan, India
 - Automation & AI tools
 
 ## Current Focus
-- Learning data analytics fundamentals
+- Learning data analytics & data science 
 - Building small practice projects
 - Improving problem-solving skills 
